@@ -1,0 +1,3 @@
+*.o
+stm32flash
+parsers.a
